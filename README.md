@@ -1,2 +1,2 @@
-# DataStructures
-Data Structures questions
+# Data Structures
+Questions on Data Structures.
